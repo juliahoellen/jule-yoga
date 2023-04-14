@@ -1,0 +1,66 @@
+{
+  "main": {
+    "name":"Heilpraktikerin für Psychotherapie",
+    "description":"Julia Hoellen",
+    "image":"profilepic.jpg",
+    "bio_1":"Ich liebe Yoga aus vielen Gründen. Einerseits ist es eine körperliche Übung, die mir hilft, meinen Körper flexibel, stark und ausdauernd zu halten. Durch regelmäßiges Yoga-Üben kann ich Verspannungen und Schmerzen lindern, meinen Körper dehnen und meine Muskeln stärken.",
+    "bio_2":"Andererseits liebe ich Yoga auch als geistige Übung. Es gibt viele Techniken im Yoga, die darauf abzielen, meinen Geist zu beruhigen, Stress abzubauen und meine Konzentration zu verbessern. Besonders die Atemübungen und Meditation haben einen positiven Effekt auf mich und helfen mir, meinen Geist zu klären und zu fokussieren.\n\n",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "info.hoellen@gmail.com",
+    "phone": "017658870225",
+    "address":{
+      "street":"Schmellerstraße",
+      "city":"München",
+      "state":"(Your State)",
+      "zip": "80337"
+    },
+    "yoga": {
+      "image":"yoga.jpeg"
+    },
+    "website": "https://www.etsy.com/de/shop/strokeandcircle",
+    "shop": "https://www.etsy.com/de/shop/strokeandcircle",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"etsy",
+        "url":"#",
+        "className":"fa fa-shopping-cart"
+      },
+      {
+        "name":"instagram",
+        "url":"#",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "heal": {
+    "title": "Heilpraktik",
+    "text": "Als Heilpraktikerin glaube ich daran, Krankheiten ganzheitlich zu betrachten und zu behandeln. Ich arbeite eng mit meinen Patienten zusammen und nutze eine Vielzahl von natürlichen Heilmethoden, um die Ursachen von Krankheiten zu identifizieren und zu behandeln. Ich nehme mir immer ausreichend Zeit für meine Patienten und schaffe eine sichere und unterstützende Umgebung, um ihre Gesundheit und ihr Wohlbefinden zu verbessern.",
+    "image":"profilepic.jpg"
+  },
+  "yoga": {
+    "title": "Yoga & Mindset",
+    "text": "Als Yoga-Lehrerin glaube ich daran, dass Yoga Körper und Geist in Einklang bringt und eine wunderbare Möglichkeit bietet, um Stress abzubauen und spirituelles Wachstum zu fördern. Ich lege Wert auf die Integration von Atemübungen, Meditation und Entspannungstechniken, um die ganzheitliche Wirkung von Yoga zu erfassen und meinen Schülerinnen und Schülern dabei zu helfen, körperliche und emotionale Blockaden zu lösen.",
+    "image":"yoga.jpeg"
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title": "Scherenschnitt1",
+        "image":"img04.jpg"
+      },
+      {
+        "title": "Scherenschnitt2",
+        "image":"img02.jpg"
+      },
+      {
+        "title": "Scherenschnitt3",
+        "image":"img03.jpg"
+      },
+      {
+        "title": "Scherenschnitt4",
+        "image":"img01.jpg"
+      }
+    ]
+  }
+}
