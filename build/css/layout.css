@@ -265,10 +265,19 @@ ul#nav li.current a { color: #A5593c; }
    line-height: 30px;
    color: #5b4a34;
 }
+
+#heal ul {
+   list-style: square;
+   margin-left: 15px;
+}
+#heal li {
+   color: #5b4a34;
+}
+
 #heal .profile-pic {
    position: relative;
-   width: 400px;
-   height: 400px;
+   width: 300px;
+   height: 300px;
    border-radius: 20%;
 }
 #heal .contact-details { width: 41.66667%; }
@@ -301,6 +310,14 @@ ul#nav li.current a { color: #A5593c; }
 #yoga p {
    line-height: 30px;
    color: #5b4a34;
+}
+
+#yoga ul {
+   list-style: square;
+   margin-left: 15px;
+}
+#yoga li {
+  color: #5b4a34;
 }
 #yoga .profile-pic {
    position: relative;
