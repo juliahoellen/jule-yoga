@@ -16,6 +16,19 @@ class Yoga extends Component {
             <div className="six columns main-col">
               <h2>{title}</h2>
               <p>{text}</p>
+              <h4>Angebot</h4>
+              <ul>
+                <li>
+                  Einzelunterricht online und vor Ort
+                </li>
+                <li>
+                  Firmenyoga
+                </li>
+                <li>
+                  Im Sommer draußen Yoga
+                </li>
+              </ul>
+
             </div>
             <div className="six columns">
               <img

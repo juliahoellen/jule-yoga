@@ -19,7 +19,7 @@ class Header extends Component {
                   color={"#FFFAF0"}
                   parallaxOffset={100}
                   minHeight={"75vh"}
-                  opacity={0.75}
+                  opacity={0}
         >
 
         <nav id="nav-wrap">
@@ -38,7 +38,7 @@ class Header extends Component {
             </li>
             <li>
               <a className="smoothscroll" href="#heal">
-                Heilpraktik
+                Über mich
               </a>
             </li>
             <li>
