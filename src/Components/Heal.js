@@ -20,7 +20,7 @@ class Heal extends Component {
               <img
                 className="profile-pic"
                 src={image}
-                alt="Stroke and Circle Profile"
+                alt="Profile"
               />
             </div>
             <div className="eight columns main-col">

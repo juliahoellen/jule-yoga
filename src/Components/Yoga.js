@@ -34,7 +34,7 @@ class Yoga extends Component {
               <img
                   className="profile-pic"
                   src={profilepic}
-                  alt="Stroke and Circle Profile"
+                  alt="Profile"
               />
             </div>
           </div>

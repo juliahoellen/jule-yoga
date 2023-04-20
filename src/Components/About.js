@@ -5,7 +5,7 @@ class About extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const name = this.props.data.name;
+    const name = this.props.data.description;
     const profilepic = "images/" + this.props.data.image;
     const bio1 = this.props.data.bio_1;
     const bio2 = this.props.data.bio_2;
@@ -25,12 +25,6 @@ class About extends Component {
                   <h2>Kontakt</h2>
                   <p className="address">
                     <span>{name}</span>
-                    <br />
-                    <span>
-                      {street}
-                      <br />
-                      {zip}, {city}
-                    </span>
                     <br />
                     <span>{email}</span>
                     <br />

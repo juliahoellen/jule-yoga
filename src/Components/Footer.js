@@ -22,7 +22,7 @@ class Footer extends Component {
             <div className="twelve columns">
               <ul className="social-links">{networks}</ul>
               <ul className="copyright">
-                <li>&copy; Copyright 2023 by Julia Hoellen</li>
+                <li>&copy; Copyright 2023 by Julia Hoellen // Impressum // Datenschutz</li>
               </ul>
             </div>
           </Fade>
