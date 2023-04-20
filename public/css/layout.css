@@ -964,7 +964,7 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
-    color: #d58888;
+    color: #A5593c;
 }
 footer .copyright  li:first-child:before {
     display: none;
@@ -981,7 +981,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #d58888;
+    color: #A5593c;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
@@ -1019,5 +1019,5 @@ footer .social-links li:first-child { margin-left: 0; }
     border-radius: 20px;
 }
 .project-btn{
-   background-color: #d58888 !important;
+   background-color: #A5593c !important;
 }
