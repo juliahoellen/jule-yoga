@@ -1,0 +1,69 @@
+{
+  "main": {
+    "name":"Heilpraktikerin für Psychotherapie",
+    "description":"Julia Hoellen",
+    "image":"profilepic.jpg",
+    "bio_1":"Ich liebe Yoga aus vielen Gründen. Einerseits ist es eine körperliche Übung, die mir hilft, meinen Körper flexibel, stark und ausdauernd zu halten. Durch regelmäßiges Yoga-Üben kann ich Verspannungen und Schmerzen lindern, meinen Körper dehnen und meine Muskeln stärken.",
+    "bio_2":"Andererseits liebe ich Yoga auch als geistige Übung. Es gibt viele Techniken im Yoga, die darauf abzielen, meinen Geist zu beruhigen, Stress abzubauen und meine Konzentration zu verbessern. Besonders die Atemübungen und Meditation haben einen positiven Effekt auf mich und helfen mir, meinen Geist zu klären und zu fokussieren.\n\n",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "info.hoellen@gmail.com",
+    "phone": "017658870225",
+    "address":{
+      "street":"Schmellerstraße",
+      "city":"München",
+      "state":"(Your State)",
+      "zip": "80337"
+    },
+    "yoga": {
+      "image":"yoga.jpeg"
+    },
+    "website": "https://www.etsy.com/de/shop/strokeandcircle",
+    "shop": "https://www.etsy.com/de/shop/strokeandcircle",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"etsy",
+        "url":"#",
+        "className":"fa fa-shopping-cart"
+      },
+      {
+        "name":"instagram",
+        "url":"#",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "heal": {
+    "title": "Über mich",
+    "text": "Hallo, mein Name ist Julia Hoellen, ich lebe in München und bin Mama eines einjährigen Sohns. Während meines Studiums und meiner Tätigkeit als Lehrerin war es mir immer schon ein Anliegen mit Menschen zusammen zu arbeiten. Es bereitet mir große Freude jede eigene Persönlichkeit kennenzulernen und diese in ihren unterschiedlichen Lebenslagen begleiten und unterstützen zu können. Es ist mir ein Anliegen jede individuelle Ressource auszuschöpfen. Aus diesem Grund habe ich mich dazu entschieden neben meiner Tätigkeit als Lehrerin und Yogalehrerin die Ausbildung Heilpraktikerin für Psychotherapie an der Deutschen Heilpraktikerschule zu absolvieren.",
+    "text2": "Als Heilpraktikerin glaube ich daran, den Mensch ganzheitlich zu betrachten und zu behandeln. Ich arbeite eng mit meinen PatientInnen zusammen und gehe individuell auf ihre Bedürfnisse ein. Ich nehme mir immer ausreichend Zeit für meine PatientInnen und schaffe eine sichere und unterstützende Umgebung, um Gesundheit und Wohlbefinden zu verbessern. Gerne unterstütze ich Sie bei dem Weg, an Ihren Herausforderungen zu wachsen und individuelle Lösungen zu finden.",
+    "text3": "Rufen Sie mich gerne an oder schreib mir eine Email und wir vereinbaren ein unverbindliches Kennenlerngespräch.",
+    "text4": "Im weitern Verlauf können wir Termine in der Praxis vereinbaren, online oder draußen in der Natur.",
+    "image":"profile.jpg"
+  },
+  "yoga": {
+    "title": "Yoga & Mindset",
+    "text": "Als lebenslange Liebhaberin von Sport und Natur bin ich davon überzeugt, dass Yoga eine wunderbare Möglichkeit bietet, Körper und Geist in Einklang zu bringen und individuelles Wachstum zu fördern. Mein Ansatz beinhaltet die Integration von Atemübungen, Meditation und Entspannungstechniken, um die ganzheitliche Wirkung von Yoga zu erfassen und dabei zu helfen, körperliche und emotionale Blockaden zu lösen. Im Jahr 2017 absolvierte ich meine Yogalehrer Ausbildung in Byron Bay, Australien, und habe seitdem verschiedene Yoga-Stile unterrichtet.",
+    "image":"yoga1.jpeg"
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title": "Scherenschnitt1",
+        "image":"img04.jpg"
+      },
+      {
+        "title": "Scherenschnitt2",
+        "image":"img02.jpg"
+      },
+      {
+        "title": "Scherenschnitt3",
+        "image":"img03.jpg"
+      },
+      {
+        "title": "Scherenschnitt4",
+        "image":"img01.jpg"
+      }
+    ]
+  }
+}
