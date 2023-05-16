@@ -29,12 +29,12 @@
    color: #E1C1A7;
    color: #E8D7C8;
    color: #687a61;
-   color: #FFFAF0;
+   color: #f7f6f2;
    color: #e5b6a3;
 }
 
 
-body { background: #0f0f0f; }
+body { background: #f7f6f2; }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -42,7 +42,7 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   min-height: 500px;
+   min-height: 300px;
    width: 100%;
    text-align: center;
    overflow: hidden;
@@ -67,7 +67,7 @@ header .banner-text { width: 100%; }
 header .banner-text h1 {
    font: 50px/1.0em 'Raleway', sans-serif;
    font-weight: 200;
-   color: #5b4a34;
+   color: #687a61;
    margin: 0 auto 18px auto;
 }
 header .banner-text h3 {
@@ -193,6 +193,19 @@ ul#nav li a:active { background-color: transparent !important; }
 ul#nav li.current a { color: #A5593c; }
 
 
+
+#grow {
+   display: flex;
+   justify-content: center;
+   background-color: #f7f6f2;
+}
+
+#grow img {
+   max-width: 100%;
+   width: 20%;
+   min-width: 20%;
+}
+
 /* ------------------------------------------------------------------ */
 /* c. About Section
 /* ------------------------------------------------------------------ */
@@ -247,7 +260,7 @@ ul#nav li.current a { color: #A5593c; }
 /* ------------------------------------------------------------------ */
 
 #heal {
-   background: #FFFAF0;
+   background: #f7f6f2;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -286,6 +299,51 @@ ul#nav li.current a { color: #A5593c; }
    padding-top: 6px;
 }
 #heal .main-col { padding-right: 5%; }
+
+/* ------------------------------------------------------------------ */
+/* c. psychotherapie Section
+/* ------------------------------------------------------------------ */
+
+#psychotherapie {
+   background: #f7f6f2;
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;
+}
+
+#psychotherapie a, #psychotherapie a:visited  { color: #5b4a34; }
+#psychotherapie a:hover, #psychotherapie a:focus { color: #5b4a34; }
+
+#psychotherapie h2 {
+   font: 22px/30px 'Raleway', sans-serif;
+   color: #5b4a34;
+   margin-bottom: 12px;
+}
+#psychotherapie p {
+   line-height: 30px;
+   color: #5b4a34;
+}
+
+#psychotherapie ul {
+   list-style: square;
+   margin-left: 15px;
+}
+#psychotherapie li {
+   color: #5b4a34;
+}
+
+#psychotherapie .profile-pic {
+   position: relative;
+   width: 300px;
+   height: 300px;
+   border-radius: 20%;
+}
+#psychotherapie .contact-details { width: 41.66667%; }
+#psychotherapie .download {
+   width: 58.33333%;
+   padding-top: 6px;
+}
+#psychotherapie .main-col { padding-right: 5%; }
 
 
 /* ------------------------------------------------------------------ */
@@ -464,7 +522,7 @@ ul#nav li.current a { color: #A5593c; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #FFFAF0;
+   background: #f7f6f2;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -944,7 +1002,7 @@ footer {
 }
 
 footer a, footer a:visited { color: #525252; }
-footer a:hover, footer a:focus { color: #fff; }
+footer a:hover, footer a:focus { color: #e5b6a3; }
 
 /* copyright */
 footer .copyright {
