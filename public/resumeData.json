@@ -33,17 +33,26 @@
       }
     ]
   },
+  "psychotherapie": {
+    "title": "Psychotherapie",
+    "text": "\"Let your mind and body grow\" - Mit diesem Motto möchte ich Ihnen helfen, dem hektischen Alltag zu entfliehen und dabei Ihre mentale und physische Gesundheit zu verbessern. Als Therapeutin bin ich darauf spezialisiert, Ihnen zu helfen, Ihre Ressourcen voll auszuschöpfen und Ihre Herausforderungen im Hier und Jetzt zu meistern. Ich unterstütze Sie dabei, positive Aspekte Ihres Lebens wahrzunehmen und jeden Tag bewusster mit mehr Achtsamkeit und Energie zu leben.",
+    "text1": "Im Zentrum meiner Arbeit stehen meine Klienten und deren individuelle Anliegen. Ich ermutige sie, ihre Stärken und Fähigkeiten zu erkennen und zu nutzen, um neue Wege zu beschreiten. Mein Ziel ist es, gemeinsam mit Ihnen ein ausgeglichenes Leben zu gestalten, welches Sie sicher durch Ihren Alltag trägt und inneres Wohlbefinden und Frieden fördert. Ich begleite und unterstütze Sie dabei, neue Sichtweisen zu entdecken und alternative Wege zu erkunden, die Ihnen ein erfülltes Leben ermöglichen.",
+    "text2": "Als Heilpraktikerin für Psychotherapie arbeite ich ganzheitlich mit Körper und Geist im Einklang. Zu Beginn findet ein kostenloses Erstgespräch statt (30 Minuten), daraufhin folgen weitere Sitzungen.",
+    "text3": "Eine Sitzung dauert 50 Minuten und kostet 60 Euro, die Dauer kann jedoch individuell angepasst werden. Termine können flexibel auch am Abend oder Wochenende vereinbart werden.",
+    "text4": "Bitte beachten Sie, dass eine eventuelle Kostenübernahme oder Beteiligung bei der Krankenkasse erfragt werden kann.",
+    "image":"psychotherapie.jpg"
+  },
   "heal": {
     "title": "Über mich",
-    "text": "Hallo, mein Name ist Julia Hoellen, ich lebe in München und bin Mama eines einjährigen Sohns. Während meines Studiums und meiner Tätigkeit als Lehrerin war es mir immer schon ein Anliegen mit Menschen zusammen zu arbeiten. Es bereitet mir große Freude jede eigene Persönlichkeit kennenzulernen und diese in ihren unterschiedlichen Lebenslagen begleiten und unterstützen zu können. Es ist mir ein Anliegen jede individuelle Ressource auszuschöpfen. Aus diesem Grund habe ich mich dazu entschieden neben meiner Tätigkeit als Lehrerin und Yogalehrerin die Ausbildung Heilpraktikerin für Psychotherapie an der Deutschen Heilpraktikerschule zu absolvieren.",
-    "text2": "Als Heilpraktikerin glaube ich daran, den Mensch ganzheitlich zu betrachten und zu behandeln. Ich arbeite eng mit meinen PatientInnen zusammen und gehe individuell auf ihre Bedürfnisse ein. Ich nehme mir immer ausreichend Zeit für meine PatientInnen und schaffe eine sichere und unterstützende Umgebung, um Gesundheit und Wohlbefinden zu verbessern. Gerne unterstütze ich Sie bei dem Weg, an Ihren Herausforderungen zu wachsen und individuelle Lösungen zu finden.",
-    "text3": "Rufen Sie mich gerne an oder schreib mir eine Email und wir vereinbaren ein unverbindliches Kennenlerngespräch.",
+    "text": "Hallo, mein Name ist Julia Hoellen, ich lebe mit meiner Familie in München und bin Mama eines einjährigen Sohnes. Während meines Studiums und meiner Tätigkeit als Lehrerin war es mir immer schon ein Anliegen mit Menschen zusammen zu arbeiten. Es bereitet mir große Freude, viele verschiedene Persönlichkeiten kennenzulernen und diese in ihren unterschiedlichen Lebenslagen begleiten und unterstützen zu können und dabei jede individuelle Ressource auszuschöpfen. Aus diesem Grund habe ich mich dazu entschieden, neben meiner Tätigkeit als Lehrerin und Yogalehrerin die Ausbildung Heilpraktikerin für Psychotherapie an der Deutschen Heilpraktikerschule zu absolvieren.",
+    "text2": "Jetzt als ausgebildete Heilpraktikerin glaube ich daran, den Menschen ganzheitlich zu betrachten und zu behandeln. Ich arbeite eng mit meinen PatientInnen zusammen und gehe individuell auf ihre Bedürfnisse ein. Außerdem nehme ich mir immer ausreichend Zeit und schaffe eine sichere und unterstützende Umgebung, um Gesundheit und Wohlbefinden zu verbessern. Daher unterstütze ich Sie gerne bei dem Weg, an Ihren Herausforderungen zu wachsen und individuelle Lösungen zu finden.",
+    "text3": "Bei Interesse rufen Sie mich gerne an oder schreiben Sie mir eine E-mail und wir vereinbaren ein unverbindliches Kennenlerngespräch.",
     "text4": "Im weitern Verlauf können wir Termine in der Praxis vereinbaren, online oder draußen in der Natur.",
     "image":"profile.jpg"
   },
   "yoga": {
     "title": "Yoga & Mindset",
-    "text": "Als lebenslange Liebhaberin von Sport und Natur bin ich davon überzeugt, dass Yoga eine wunderbare Möglichkeit bietet, Körper und Geist in Einklang zu bringen und individuelles Wachstum zu fördern. Mein Ansatz beinhaltet die Integration von Atemübungen, Meditation und Entspannungstechniken, um die ganzheitliche Wirkung von Yoga zu erfassen und dabei zu helfen, körperliche und emotionale Blockaden zu lösen. Im Jahr 2017 absolvierte ich meine Yogalehrer Ausbildung in Byron Bay, Australien, und habe seitdem verschiedene Yoga-Stile unterrichtet.",
+    "text": "Im Jahr 2017 absolvierte ich meine Yogalehrer Ausbildung in Byron Bay, Australien, und habe seitdem verschiedene Yoga-Stile unterrichtet. Zusätzlich bin ich eine lebenslange Liebhaberin von Sport und Natur und davon überzeugt, dass Yoga eine wunderbare Möglichkeit bietet, Körper und Geist in Einklang zu bringen und individuelles Wachstum zu fördern. Mein Ansatz beinhaltet die Integration von Atemübungen, Meditation und Entspannungstechniken, um die ganzheitliche Wirkung von Yoga zu erfassen und dabei zu helfen, körperliche und emotionale Blockaden zu lösen.",
     "image":"yoga1.jpeg"
   },
   "portfolio":{

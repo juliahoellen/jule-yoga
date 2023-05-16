@@ -16,10 +16,10 @@ class Header extends Component {
     return (
       <header id="home">
         <LazyHero imageSrc="images/hero.jpeg"
-                  color={"#FFFAF0"}
+                  color={"#f7f6f2"}
                   parallaxOffset={100}
-                  minHeight={"75vh"}
-                  opacity={0}
+                  minHeight={"45vh"}
+                  opacity={1}
         >
 
         <nav id="nav-wrap">
@@ -37,6 +37,10 @@ class Header extends Component {
               </a>
             </li>
             <li>
+              <a className="smoothscroll" href="#psychotherapie">
+                Psychotherapie
+              </a>
+            </li>            <li>
               <a className="smoothscroll" href="#heal">
                 Über mich
               </a>
@@ -78,14 +82,12 @@ class Header extends Component {
             {/*</Fade>*/}
           </div>
         </div>
-
-        <p className="scrolldown">
-          <a className="smoothscroll" href="#heal">
+          <p className="scrolldown">
+          <a className="smoothscroll" href="#psychotherapie">
             <i className="icon-down-circle"></i>
           </a>
         </p>
         </LazyHero>
-
       </header>
     );
   }
